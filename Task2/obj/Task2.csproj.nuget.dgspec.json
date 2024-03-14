@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Учеба\\geekbrainsC#\\Task2\\Task2.csproj": {}
+    "C:\\Учеба\\geekbrainsC#\\task2\\Task2.csproj": {}
   },
   "projects": {
-    "C:\\Учеба\\geekbrainsC#\\Task2\\Task2.csproj": {
+    "C:\\Учеба\\geekbrainsC#\\task2\\Task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Учеба\\geekbrainsC#\\Task2\\Task2.csproj",
+        "projectUniqueName": "C:\\Учеба\\geekbrainsC#\\task2\\Task2.csproj",
         "projectName": "Task2",
-        "projectPath": "C:\\Учеба\\geekbrainsC#\\Task2\\Task2.csproj",
+        "projectPath": "C:\\Учеба\\geekbrainsC#\\task2\\Task2.csproj",
         "packagesPath": "C:\\Users\\Nethril\\.nuget\\packages\\",
-        "outputPath": "C:\\Учеба\\geekbrainsC#\\Task2\\obj\\",
+        "outputPath": "C:\\Учеба\\geekbrainsC#\\task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nethril\\AppData\\Roaming\\NuGet\\NuGet.Config"
